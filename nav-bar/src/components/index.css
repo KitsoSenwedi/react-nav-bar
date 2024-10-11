@@ -1,0 +1,9 @@
+/* index.css or App.css */
+body {
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+  }
+  
