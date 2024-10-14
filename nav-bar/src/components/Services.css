@@ -1,0 +1,14 @@
+/* Services.css */
+
+#services {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .services-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  

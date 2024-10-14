@@ -1,6 +1,7 @@
 // Header.js
 import React from 'react';
 import './Header.css'; // We'll add some styling here
+import './Theme.css'
 
 const Header = () => {
   return (

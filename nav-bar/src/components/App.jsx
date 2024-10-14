@@ -6,6 +6,7 @@ import About from './About';
 import Services from './Services';
 import Contact from './Contact';
 import Portfolio from './Portfolio';
+import './Theme.css'
 
 
 function App() {
