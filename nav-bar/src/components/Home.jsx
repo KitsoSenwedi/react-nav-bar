@@ -1,7 +1,7 @@
 // Home.js
 import React from 'react';
 import './Home.css'; // Custom styles for timeline
-import './Theme.css'
+
 
 const Home = () => {
   return (

@@ -2,7 +2,7 @@
 import React from 'react';
 import ServiceCard from './ServiceCard'; // Import the ServiceCard component
 import './Services.css'; // Create a new CSS file for the services grid
-import './Theme.css'
+
 
 const Services = () => {
   const services = [

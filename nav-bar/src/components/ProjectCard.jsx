@@ -1,7 +1,7 @@
 // ProjectCard.js
 import React from 'react';
 import './ProjectCard.css'; // Separate CSS for card-specific styling
-import './Theme.css'
+
 
 const ProjectCard = ({ imageUrl, title, description }) => {
   return (

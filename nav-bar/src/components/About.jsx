@@ -1,7 +1,6 @@
 // About.js
 import React from 'react';
 import './About.css'; // Create and style the section in this file
-import './Theme.css'
 
 const About = () => {
   return (

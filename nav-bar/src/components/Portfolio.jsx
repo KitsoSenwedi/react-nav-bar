@@ -2,7 +2,7 @@
 import React from 'react';
 import ProjectCard from './ProjectCard'; // Import the ProjectCard component
 import './Portfolio.css'; // Import CSS for the portfolio grid
-import './Theme.css'
+
 
 const Portfolio = () => {
   const projects = [

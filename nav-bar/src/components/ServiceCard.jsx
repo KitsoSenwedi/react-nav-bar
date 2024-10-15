@@ -1,7 +1,7 @@
 // ServiceCard.js
 import React from 'react';
 import './ServiceCard.css'; // Add CSS for service card styling
-import './Theme.css'
+
 
 const ServiceCard = ({ imageUrl, title, description }) => {
   return (
